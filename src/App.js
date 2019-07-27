@@ -20,7 +20,7 @@ function App() {
           <h4><a href="http://www.google.com">Interactive</a></h4>
           <h4>Contact</h4>
           <h4>Portfolio</h4>
-          <h4>About</h4>
+          <h4>Niamh</h4>
         </div>
       </div>
       <div className="header-border"></div>
