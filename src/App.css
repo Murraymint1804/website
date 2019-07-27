@@ -7,7 +7,6 @@ a, a:-webkit-any-link {
 
 .App {
   text-align: center;
-  background-image: (".././webplunder-background-image-technology-online-website-solutions.jpg");
 }
 
 .App-logo {
@@ -18,14 +17,16 @@ a, a:-webkit-any-link {
 
 .App-header {
   min-height: 10rem;
-  background: white;
+  /* background-color: white; */
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   font-size: calc(10px + 2vmin);
   padding: 2rem 3rem 2rem 3rem;
+
 }
+
 
 .App-header h4{
   color: grey;
